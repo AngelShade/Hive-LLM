@@ -9,15 +9,26 @@ This is a work in progress, currently its a ideea that im trying to apply to any
 Table of Contents
 
 *Overview
+
 *Download
+
 *Build and Install
+
 *Documentation
+
 *License
+
 *Support
+
 *Contributing
+
 *Legalities
+
 *Overview
-The LLM P2P Communication with Kademlia script allows for secure communication between multiple instances of a language model using a distributed hash table. It uses asyncio and SSL to establish secure communication channels and exchange JSON-encoded messages between nodes.
+==============================
+
+The LLM P2P Communication with Kademlia script allows for secure communication between multiple instances of a language model using a distributed hash table. 
+It uses asyncio and SSL to establish secure communication channels and exchange JSON-encoded messages between nodes.
 
 Download
 You can download the script directly from this repository.
